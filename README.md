@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - Markdown, Git
 
 ## 📫 연락처
-- Email: doiljung@example.com
+- Email: 
